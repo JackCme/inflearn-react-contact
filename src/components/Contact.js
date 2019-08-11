@@ -3,7 +3,7 @@ import ContactInfo from './ContactInfo'
 import ContactDetails from './ContactDetails'
 import ContactCreate from './ContactCreate'
 
-import update from 'react-addons-update'
+import update from 'immutability-helper'
 
 export default class Contact extends Component {
     
